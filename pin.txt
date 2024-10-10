@@ -1,0 +1,9 @@
+sudo raspi-config
+enable I2C
+
+LCD		Raspberrypi
+
+VCC		Pin(2)
+GND		Pin(6)
+SDA		Pin(3)
+SLC		Pin(5)
